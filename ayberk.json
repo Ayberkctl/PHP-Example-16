@@ -1,0 +1,14 @@
+{
+    "name":"ayberk",
+    "sorname":"catal",
+    "siteler":[
+        {
+            "url": "https://ayberkcatal.com",
+            "header":"Ayberkcatal.com - web site"
+        },
+        {
+            "url": "https://github.com/Ayberkctl",
+            "header":"Ayberkctl - My github acount"
+        }   
+    ]
+}
